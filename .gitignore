@@ -1,0 +1,12 @@
+# Executables
+dmenu
+stest
+
+# Build output
+*.o
+config.h
+
+# Patching
+patches/
+*.orig
+*.rej
